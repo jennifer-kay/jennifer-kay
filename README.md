@@ -2,7 +2,7 @@ Here's a personalized GitHub profile README based on your skills, experience, an
 
 ---
 
-# 🌟 Jennifer Kay Bain
+# 🌟 Jennifer Kay
 
 **Care Coordinator @ TimeDoc Health | AI Engineer | Full Stack Developer**  
 **Location:** Long Beach, California | **Contact:** [contact@jenniferkay.io](mailto:contact@jenniferkay.io)  
@@ -44,7 +44,7 @@ Here's a personalized GitHub profile README based on your skills, experience, an
   - Deployed the model on AWS for scalable cloud-based inference.
   - Achieved high accuracy through rigorous training and hyperparameter tuning.
 
-### [Patient Chart System @ TimeDoc Health](https://jenniferkay.io/project)
+### [Patient Chart System](https://jenniferkay.io/project)
 - **Description:** A comprehensive patient management system with an integrated Azure-based chatbot for healthcare providers.
 - **Tech Stack:** React, Azure Bot Services, Microsoft Azure, Azure DevOps
 - **Key Achievements:**
